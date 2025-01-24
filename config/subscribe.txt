@@ -15,4 +15,4 @@
 # https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 # https://ghproxy.cc/https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 # https://ghproxy.cc/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-http://211.101.234.24:68/%E5%87%8C%E4%BA%91%E4%B9%8B%E5%BF%97ds.txt
+# http://211.101.234.24:68/%E5%87%8C%E4%BA%91%E4%B9%8B%E5%BF%97ds.txt
