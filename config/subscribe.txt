@@ -15,5 +15,5 @@
 # https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 # https://ghproxy.cc/https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 # https://ghproxy.cc/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-http://211.101.234.24:866/qiyu.php?url=a
-# https://github.com/zht98/iptv-api/raw/refs/heads/master/123.txt
+# http://211.101.234.24:866/qiyu.php?url=a
+https://files.catbox.moe/d7utqu.m3u
