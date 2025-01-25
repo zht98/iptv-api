@@ -1,2 +1,1 @@
 📺央视频道,#genre#
-CCTV1,http://106.53.99.30/dl/bjyd.php?id=1
