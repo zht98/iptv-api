@@ -1,0 +1,5 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
+#EXTINF:-1 tvg-name="大连新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大连新闻综合.png" group-title="☘️辽宁频道",大连新闻综合
+rtmp://secret.dltv.cn/dreamStreamCore/tcb3IB5/lv500?p?zliaond
+#EXTINF:-1 tvg-name="大连生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大连生活.png" group-title="☘️辽宁频道",大连生活
+rtmp://secret.dltv.cn/dreamStreamCore/JzcFkF4/lv500?p?zliaond
