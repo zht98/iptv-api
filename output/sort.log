@@ -1,0 +1,13 @@
+Name: CCTV1, URL: http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV1, URL: http://39.134.65.175/PLTV/88888888/224/3221225816/1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV1, URL: http://148.135.93.213/live.php?id=CCTV1$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV1, URL: http://39.170.52.236:808/hls/1/index.m3u8#http://183.66.15.146:60901/tsfile/live/0001_1.m3u8?key=txiptv$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV1, URL: https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 2054 ms, Speed: 2.52 M/s, Resolution: 1920x1080
+Name: CCTV1, URL: http://58.243.224.244:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源, IPv_Type: ipv4, Date: None, Delay: 1510 ms, Speed: 0.38 M/s, Resolution: 1920x1080
+Name: CCTV1, URL: http://58.243.224.242:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源, IPv_Type: ipv4, Date: None, Delay: 1793 ms, Speed: 0.40 M/s, Resolution: 1920x1080
+Name: CCTV1, URL: http://219.135.180.210:18888/hls/1/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 1027 ms, Speed: 0.10 M/s, Resolution: 1920x1080
+Name: CCTV1, URL: http://175.31.21.146:4480/hls/1/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 490 ms, Speed: 0.13 M/s, Resolution: 1920x1080
+Name: CCTV1, URL: http://222.219.183.103:8089/hls/1/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 2215 ms, Speed: 0.17 M/s, Resolution: 1920x1080
+Name: CCTV1, URL: http://211.67.191.23/hls/cctv1hd/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 1288 ms, Speed: 0.08 M/s, Resolution: 1920x1080
+Name: CCTV1, URL: http://120.238.94.10:9901/tsfile/live/1018_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 470 ms, Speed: 0.24 M/s, Resolution: 1920x1080
+Name: CCTV1, URL: http://112.123.206.32:808/hls/1/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 242 ms, Speed: 1.29 M/s, Resolution: 1920x1080
