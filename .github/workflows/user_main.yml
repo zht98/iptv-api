@@ -1,8 +1,8 @@
-name: '更新计划'
+name: '测试'
 
 on:
-  schedule:
-    - cron: '0 4 * * *'
+  # schedule:
+    # - cron: '0 4 * * *'
   workflow_dispatch:
     branches:
       - master
