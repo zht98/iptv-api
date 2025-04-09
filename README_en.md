@@ -47,7 +47,7 @@ other features, under development...
 > 1. The default data sources, such as subscription sources, come from open-source projects on GitHub and are for
      demonstration purposes only. They may have stability issues.
 > 2. This project does not guarantee or explain the stability of the interface results.
-> 3. For better stability, it is recommended to maintain your own data sources.
+> 3. To achieve optimal stability, it is recommended to maintain the data sources yourself.
 
 <details>
   <summary>Default Data Sources</summary>
@@ -88,9 +88,9 @@ other features, under development...
 
 > [!IMPORTANT]\
 > The following addresses may fail to be accessed domestically. It is recommended to prepend a proxy address for use.
-> You can reply with "CDN" on the public account to obtain it.
+> The public account can reply with `CDN` to obtain it.
 
-### Interface source
+### Live Sources
 
 - Default
 
