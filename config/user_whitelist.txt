@@ -3,3 +3,4 @@
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 https://4708.kstore.space/svip/ITV.txt
+gslbserv.itv.cmvideo.cn:80
