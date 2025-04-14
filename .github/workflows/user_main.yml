@@ -1,17 +1,17 @@
-name: 'Update schedule'
+name: '测试'
 
 on:
   # schedule:
-    # - cron: '0 22,10 * * *'
+    # - cron: '30 4 * * *'
   workflow_dispatch:
     branches:
       - master
-      - dev
-      - gd
+      # - dev
+      # - gd
 jobs:
   push:
     runs-on: ${{ matrix.operating-system }}
-    timeout-minutes: 120
+    timeout-minutes: 60
     strategy:
       matrix:
         operating-system: [ 'ubuntu-20.04' ]
