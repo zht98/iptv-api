@@ -1,0 +1,229 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
+#EXTINF:-1 tvg-name="赛事睛彩竞技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事睛彩竞技.png" group-title="📺央视频道",赛事睛彩竞技
+http://129.146.6.71:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事睛彩竞技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事睛彩竞技.png" group-title="📺央视频道",赛事睛彩竞技
+http://192.95.29.187:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事睛彩篮球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事睛彩篮球.png" group-title="📺央视频道",赛事睛彩篮球
+http://129.146.6.71:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事睛彩篮球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事睛彩篮球.png" group-title="📺央视频道",赛事睛彩篮球
+http://192.95.29.187:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播01" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播01.png" group-title="📺央视频道",赛事咪咕播01
+http://129.146.6.71:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播01" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播01.png" group-title="📺央视频道",赛事咪咕播01
+http://192.95.29.187:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播02" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播02.png" group-title="📺央视频道",赛事咪咕播02
+http://129.146.6.71:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播02" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播02.png" group-title="📺央视频道",赛事咪咕播02
+http://192.95.29.187:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播03" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播03.png" group-title="📺央视频道",赛事咪咕播03
+http://129.146.6.71:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播03" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播03.png" group-title="📺央视频道",赛事咪咕播03
+http://192.95.29.187:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播04" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播04.png" group-title="📺央视频道",赛事咪咕播04
+http://129.146.6.71:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播04" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播04.png" group-title="📺央视频道",赛事咪咕播04
+http://192.95.29.187:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播05" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播05.png" group-title="📺央视频道",赛事咪咕播05
+http://129.146.6.71:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播05" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播05.png" group-title="📺央视频道",赛事咪咕播05
+http://192.95.29.187:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播06" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播06.png" group-title="📺央视频道",赛事咪咕播06
+http://129.146.6.71:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播06" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播06.png" group-title="📺央视频道",赛事咪咕播06
+http://192.95.29.187:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播07" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播07.png" group-title="📺央视频道",赛事咪咕播07
+http://129.146.6.71:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播07" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播07.png" group-title="📺央视频道",赛事咪咕播07
+http://192.95.29.187:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播08" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播08.png" group-title="📺央视频道",赛事咪咕播08
+http://129.146.6.71:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播08" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播08.png" group-title="📺央视频道",赛事咪咕播08
+http://192.95.29.187:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播09" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播09.png" group-title="📺央视频道",赛事咪咕播09
+http://129.146.6.71:35455/itv/3000000001000026778.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播09" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播09.png" group-title="📺央视频道",赛事咪咕播09
+http://192.95.29.187:35455/itv/3000000001000026778.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播10.png" group-title="📺央视频道",赛事咪咕播10
+http://129.146.6.71:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播10.png" group-title="📺央视频道",赛事咪咕播10
+http://192.95.29.187:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播11.png" group-title="📺央视频道",赛事咪咕播11
+http://129.146.6.71:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播11.png" group-title="📺央视频道",赛事咪咕播11
+http://192.95.29.187:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播12.png" group-title="📺央视频道",赛事咪咕播12
+http://129.146.6.71:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播12.png" group-title="📺央视频道",赛事咪咕播12
+http://192.95.29.187:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播13.png" group-title="📺央视频道",赛事咪咕播13
+http://129.146.6.71:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播13.png" group-title="📺央视频道",赛事咪咕播13
+http://192.95.29.187:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播14.png" group-title="📺央视频道",赛事咪咕播14
+http://129.146.6.71:35455/itv/3000000010000002032.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播14.png" group-title="📺央视频道",赛事咪咕播14
+http://192.95.29.187:35455/itv/3000000010000002032.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播15.png" group-title="📺央视频道",赛事咪咕播15
+http://129.146.6.71:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播15.png" group-title="📺央视频道",赛事咪咕播15
+http://192.95.29.187:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播16.png" group-title="📺央视频道",赛事咪咕播16
+http://129.146.6.71:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播16.png" group-title="📺央视频道",赛事咪咕播16
+http://192.95.29.187:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播17.png" group-title="📺央视频道",赛事咪咕播17
+http://129.146.6.71:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播17.png" group-title="📺央视频道",赛事咪咕播17
+http://192.95.29.187:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播18" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播18.png" group-title="📺央视频道",赛事咪咕播18
+http://129.146.6.71:35455/itv/3000000010000004464.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播18" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播18.png" group-title="📺央视频道",赛事咪咕播18
+http://192.95.29.187:35455/itv/3000000010000004464.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播19" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播19.png" group-title="📺央视频道",赛事咪咕播19
+http://129.146.6.71:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播19" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播19.png" group-title="📺央视频道",赛事咪咕播19
+http://192.95.29.187:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播20" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播20.png" group-title="📺央视频道",赛事咪咕播20
+http://129.146.6.71:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播20" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播20.png" group-title="📺央视频道",赛事咪咕播20
+http://192.95.29.187:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播21" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播21.png" group-title="📺央视频道",赛事咪咕播21
+http://129.146.6.71:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播21" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播21.png" group-title="📺央视频道",赛事咪咕播21
+http://192.95.29.187:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播22" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播22.png" group-title="📺央视频道",赛事咪咕播22
+http://129.146.6.71:35455/itv/3000000010000006944.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播22" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播22.png" group-title="📺央视频道",赛事咪咕播22
+http://192.95.29.187:35455/itv/3000000010000006944.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播23" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播23.png" group-title="📺央视频道",赛事咪咕播23
+http://129.146.6.71:35455/itv/3000000010000007692.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播23" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播23.png" group-title="📺央视频道",赛事咪咕播23
+http://192.95.29.187:35455/itv/3000000010000007692.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播24" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播24.png" group-title="📺央视频道",赛事咪咕播24
+http://129.146.6.71:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播24" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播24.png" group-title="📺央视频道",赛事咪咕播24
+http://192.95.29.187:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播25" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播25.png" group-title="📺央视频道",赛事咪咕播25
+http://129.146.6.71:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播25" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播25.png" group-title="📺央视频道",赛事咪咕播25
+http://192.95.29.187:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播26" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播26.png" group-title="📺央视频道",赛事咪咕播26
+http://129.146.6.71:35455/itv/3000000010000011112.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播26" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播26.png" group-title="📺央视频道",赛事咪咕播26
+http://192.95.29.187:35455/itv/3000000010000011112.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播27" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播27.png" group-title="📺央视频道",赛事咪咕播27
+http://129.146.6.71:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播27" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播27.png" group-title="📺央视频道",赛事咪咕播27
+http://192.95.29.187:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播28" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播28.png" group-title="📺央视频道",赛事咪咕播28
+http://129.146.6.71:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播28" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播28.png" group-title="📺央视频道",赛事咪咕播28
+http://192.95.29.187:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播29" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播29.png" group-title="📺央视频道",赛事咪咕播29
+http://129.146.6.71:35455/itv/3000000010000011763.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播29" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播29.png" group-title="📺央视频道",赛事咪咕播29
+http://192.95.29.187:35455/itv/3000000010000011763.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播30" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播30.png" group-title="📺央视频道",赛事咪咕播30
+http://129.146.6.71:35455/itv/3000000010000011873.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播30" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播30.png" group-title="📺央视频道",赛事咪咕播30
+http://192.95.29.187:35455/itv/3000000010000011873.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播31" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播31.png" group-title="📺央视频道",赛事咪咕播31
+http://129.146.6.71:35455/itv/3000000010000012398.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播31" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播31.png" group-title="📺央视频道",赛事咪咕播31
+http://192.95.29.187:35455/itv/3000000010000012398.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播32" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播32.png" group-title="📺央视频道",赛事咪咕播32
+http://129.146.6.71:35455/itv/3000000010000012450.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播32" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播32.png" group-title="📺央视频道",赛事咪咕播32
+http://192.95.29.187:35455/itv/3000000010000012450.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播33" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播33.png" group-title="📺央视频道",赛事咪咕播33
+http://129.146.6.71:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播33" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播33.png" group-title="📺央视频道",赛事咪咕播33
+http://192.95.29.187:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播34" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播34.png" group-title="📺央视频道",赛事咪咕播34
+http://129.146.6.71:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播34" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播34.png" group-title="📺央视频道",赛事咪咕播34
+http://192.95.29.187:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播35" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播35.png" group-title="📺央视频道",赛事咪咕播35
+http://129.146.6.71:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播35" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播35.png" group-title="📺央视频道",赛事咪咕播35
+http://192.95.29.187:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播36" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播36.png" group-title="📺央视频道",赛事咪咕播36
+http://129.146.6.71:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播36" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播36.png" group-title="📺央视频道",赛事咪咕播36
+http://192.95.29.187:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播37" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播37.png" group-title="📺央视频道",赛事咪咕播37
+http://129.146.6.71:35455/itv/3000000010000017389.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播37" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播37.png" group-title="📺央视频道",赛事咪咕播37
+http://192.95.29.187:35455/itv/3000000010000017389.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播38" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播38.png" group-title="📺央视频道",赛事咪咕播38
+http://129.146.6.71:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播38" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播38.png" group-title="📺央视频道",赛事咪咕播38
+http://192.95.29.187:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播39" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播39.png" group-title="📺央视频道",赛事咪咕播39
+http://129.146.6.71:35455/itv/3000000010000017997.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播39" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播39.png" group-title="📺央视频道",赛事咪咕播39
+http://192.95.29.187:35455/itv/3000000010000017997.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播40" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播40.png" group-title="📺央视频道",赛事咪咕播40
+http://129.146.6.71:35455/itv/3000000010000019380.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播40" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播40.png" group-title="📺央视频道",赛事咪咕播40
+http://192.95.29.187:35455/itv/3000000010000019380.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播41" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播41.png" group-title="📺央视频道",赛事咪咕播41
+http://129.146.6.71:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播41" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播41.png" group-title="📺央视频道",赛事咪咕播41
+http://192.95.29.187:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播42" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播42.png" group-title="📺央视频道",赛事咪咕播42
+http://129.146.6.71:35455/itv/3000000010000020168.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播42" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播42.png" group-title="📺央视频道",赛事咪咕播42
+http://192.95.29.187:35455/itv/3000000010000020168.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播43" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播43.png" group-title="📺央视频道",赛事咪咕播43
+http://129.146.6.71:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播43" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播43.png" group-title="📺央视频道",赛事咪咕播43
+http://192.95.29.187:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播44" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播44.png" group-title="📺央视频道",赛事咪咕播44
+http://129.146.6.71:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播44" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播44.png" group-title="📺央视频道",赛事咪咕播44
+http://192.95.29.187:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播45" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播45.png" group-title="📺央视频道",赛事咪咕播45
+http://129.146.6.71:35455/itv/3000000010000024205.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播45" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播45.png" group-title="📺央视频道",赛事咪咕播45
+http://192.95.29.187:35455/itv/3000000010000024205.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播46" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播46.png" group-title="📺央视频道",赛事咪咕播46
+http://129.146.6.71:35455/itv/3000000010000024691.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播46" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播46.png" group-title="📺央视频道",赛事咪咕播46
+http://192.95.29.187:35455/itv/3000000010000024691.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播47" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播47.png" group-title="📺央视频道",赛事咪咕播47
+http://129.146.6.71:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播47" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播47.png" group-title="📺央视频道",赛事咪咕播47
+http://192.95.29.187:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播48" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播48.png" group-title="📺央视频道",赛事咪咕播48
+http://129.146.6.71:35455/itv/3000000010000025943.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播48" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播48.png" group-title="📺央视频道",赛事咪咕播48
+http://192.95.29.187:35455/itv/3000000010000025943.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播49" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播49.png" group-title="📺央视频道",赛事咪咕播49
+http://129.146.6.71:35455/itv/3000000010000027318.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播49" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播49.png" group-title="📺央视频道",赛事咪咕播49
+http://192.95.29.187:35455/itv/3000000010000027318.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播50" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播50.png" group-title="📺央视频道",赛事咪咕播50
+http://129.146.6.71:35455/itv/3000000010000027638.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播50" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播50.png" group-title="📺央视频道",赛事咪咕播50
+http://192.95.29.187:35455/itv/3000000010000027638.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播51" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播51.png" group-title="📺央视频道",赛事咪咕播51
+http://129.146.6.71:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播51" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播51.png" group-title="📺央视频道",赛事咪咕播51
+http://192.95.29.187:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播52" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播52.png" group-title="📺央视频道",赛事咪咕播52
+http://129.146.6.71:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播52" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播52.png" group-title="📺央视频道",赛事咪咕播52
+http://192.95.29.187:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播53" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播53.png" group-title="📺央视频道",赛事咪咕播53
+http://129.146.6.71:35455/itv/3000000010000032106.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕播53" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕播53.png" group-title="📺央视频道",赛事咪咕播53
+http://192.95.29.187:35455/itv/3000000010000032106.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕壹4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕壹4K.png" group-title="📺央视频道",赛事咪咕壹4K
+http://129.146.6.71:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕壹4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕壹4K.png" group-title="📺央视频道",赛事咪咕壹4K
+http://192.95.29.187:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕贰4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕贰4K.png" group-title="📺央视频道",赛事咪咕贰4K
+http://129.146.6.71:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕贰4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕贰4K.png" group-title="📺央视频道",赛事咪咕贰4K
+http://192.95.29.187:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
