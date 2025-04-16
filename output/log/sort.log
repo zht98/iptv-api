@@ -1,119 +1,333 @@
-Name: CCTV-01斯特, URL: https://pixman.mytvsuper.com.mp/Smart.php?id=cctv1$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-01斯特, URL: http://eu.huohuoaa.tech:1025/Smart.php?id=cctv1$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV1, URL: http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000001000004953&livemode=1&stbId=yu&mode=1$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV1, URL: http://219.145.201.198:3389/cctv1ly/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV1, URL: http://zhibo.feylen.top/fltv/js/k-web/ku9/js/migu.js?id=cctv1$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 咪咕视频-32, URL: http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000063&livemode=1&stbId=yu&mode=1$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 咪咕视频-33, URL: http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270004&livemode=1&stbId=yu&mode=1$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 赛事睛彩竞技, URL: http://192.95.29.187:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事睛彩竞技, URL: http://129.146.6.71:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事睛彩篮球, URL: http://192.95.29.187:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事睛彩篮球, URL: http://129.146.6.71:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播01, URL: http://192.95.29.187:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播01, URL: http://129.146.6.71:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播02, URL: http://192.95.29.187:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播02, URL: http://129.146.6.71:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播03, URL: http://192.95.29.187:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播03, URL: http://129.146.6.71:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播04, URL: http://192.95.29.187:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播04, URL: http://129.146.6.71:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播05, URL: http://192.95.29.187:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播05, URL: http://129.146.6.71:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播06, URL: http://192.95.29.187:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播06, URL: http://129.146.6.71:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播07, URL: http://192.95.29.187:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播07, URL: http://129.146.6.71:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播08, URL: http://192.95.29.187:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播08, URL: http://129.146.6.71:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播09, URL: http://192.95.29.187:35455/itv/3000000001000026778.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播09, URL: http://129.146.6.71:35455/itv/3000000001000026778.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播10, URL: http://192.95.29.187:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播10, URL: http://129.146.6.71:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播11, URL: http://192.95.29.187:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播11, URL: http://129.146.6.71:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播12, URL: http://192.95.29.187:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播12, URL: http://129.146.6.71:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播13, URL: http://192.95.29.187:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播13, URL: http://129.146.6.71:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播14, URL: http://192.95.29.187:35455/itv/3000000010000002032.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播14, URL: http://129.146.6.71:35455/itv/3000000010000002032.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播15, URL: http://192.95.29.187:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播15, URL: http://129.146.6.71:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播16, URL: http://192.95.29.187:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播16, URL: http://129.146.6.71:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播17, URL: http://192.95.29.187:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播17, URL: http://129.146.6.71:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播18, URL: http://192.95.29.187:35455/itv/3000000010000004464.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播18, URL: http://129.146.6.71:35455/itv/3000000010000004464.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播19, URL: http://192.95.29.187:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播19, URL: http://129.146.6.71:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播20, URL: http://192.95.29.187:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播20, URL: http://129.146.6.71:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播21, URL: http://192.95.29.187:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播21, URL: http://129.146.6.71:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播22, URL: http://192.95.29.187:35455/itv/3000000010000006944.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播22, URL: http://129.146.6.71:35455/itv/3000000010000006944.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播23, URL: http://192.95.29.187:35455/itv/3000000010000007692.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播23, URL: http://129.146.6.71:35455/itv/3000000010000007692.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播24, URL: http://192.95.29.187:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播24, URL: http://129.146.6.71:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播25, URL: http://192.95.29.187:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播25, URL: http://129.146.6.71:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播26, URL: http://192.95.29.187:35455/itv/3000000010000011112.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播26, URL: http://129.146.6.71:35455/itv/3000000010000011112.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播27, URL: http://192.95.29.187:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播27, URL: http://129.146.6.71:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播28, URL: http://192.95.29.187:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播28, URL: http://129.146.6.71:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播29, URL: http://192.95.29.187:35455/itv/3000000010000011763.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播29, URL: http://129.146.6.71:35455/itv/3000000010000011763.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播30, URL: http://192.95.29.187:35455/itv/3000000010000011873.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播30, URL: http://129.146.6.71:35455/itv/3000000010000011873.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播31, URL: http://192.95.29.187:35455/itv/3000000010000012398.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播31, URL: http://129.146.6.71:35455/itv/3000000010000012398.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播32, URL: http://192.95.29.187:35455/itv/3000000010000012450.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播32, URL: http://129.146.6.71:35455/itv/3000000010000012450.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播33, URL: http://192.95.29.187:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播33, URL: http://129.146.6.71:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播34, URL: http://192.95.29.187:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播34, URL: http://129.146.6.71:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播35, URL: http://192.95.29.187:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播35, URL: http://129.146.6.71:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播36, URL: http://192.95.29.187:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播36, URL: http://129.146.6.71:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播37, URL: http://192.95.29.187:35455/itv/3000000010000017389.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播37, URL: http://129.146.6.71:35455/itv/3000000010000017389.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播38, URL: http://192.95.29.187:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播38, URL: http://129.146.6.71:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播39, URL: http://192.95.29.187:35455/itv/3000000010000017997.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播39, URL: http://129.146.6.71:35455/itv/3000000010000017997.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播40, URL: http://192.95.29.187:35455/itv/3000000010000019380.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播40, URL: http://129.146.6.71:35455/itv/3000000010000019380.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播41, URL: http://192.95.29.187:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播41, URL: http://129.146.6.71:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播42, URL: http://192.95.29.187:35455/itv/3000000010000020168.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播42, URL: http://129.146.6.71:35455/itv/3000000010000020168.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播43, URL: http://192.95.29.187:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播43, URL: http://129.146.6.71:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播44, URL: http://192.95.29.187:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播44, URL: http://129.146.6.71:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播45, URL: http://192.95.29.187:35455/itv/3000000010000024205.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播45, URL: http://129.146.6.71:35455/itv/3000000010000024205.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播46, URL: http://192.95.29.187:35455/itv/3000000010000024691.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播46, URL: http://129.146.6.71:35455/itv/3000000010000024691.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播47, URL: http://192.95.29.187:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播47, URL: http://129.146.6.71:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播48, URL: http://192.95.29.187:35455/itv/3000000010000025943.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播48, URL: http://129.146.6.71:35455/itv/3000000010000025943.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播49, URL: http://192.95.29.187:35455/itv/3000000010000027318.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播49, URL: http://129.146.6.71:35455/itv/3000000010000027318.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播50, URL: http://192.95.29.187:35455/itv/3000000010000027638.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播50, URL: http://129.146.6.71:35455/itv/3000000010000027638.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播51, URL: http://192.95.29.187:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播51, URL: http://129.146.6.71:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播52, URL: http://192.95.29.187:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播52, URL: http://129.146.6.71:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播53, URL: http://192.95.29.187:35455/itv/3000000010000032106.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕播53, URL: http://129.146.6.71:35455/itv/3000000010000032106.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕壹4K, URL: http://192.95.29.187:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕壹4K, URL: http://129.146.6.71:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕贰4K, URL: http://192.95.29.187:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1183 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 赛事咪咕贰4K, URL: http://129.146.6.71:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1096 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事睛彩竞技, URL: http://192.95.29.187:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事睛彩竞技, URL: http://129.146.6.71:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事睛彩篮球, URL: http://192.95.29.187:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事睛彩篮球, URL: http://129.146.6.71:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播01, URL: http://192.95.29.187:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播01, URL: http://129.146.6.71:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播02, URL: http://192.95.29.187:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播02, URL: http://129.146.6.71:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播03, URL: http://192.95.29.187:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播03, URL: http://129.146.6.71:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播04, URL: http://192.95.29.187:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播04, URL: http://129.146.6.71:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播05, URL: http://192.95.29.187:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播05, URL: http://129.146.6.71:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播06, URL: http://192.95.29.187:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播06, URL: http://129.146.6.71:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播07, URL: http://192.95.29.187:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播07, URL: http://129.146.6.71:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播08, URL: http://192.95.29.187:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播08, URL: http://129.146.6.71:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播09, URL: http://192.95.29.187:35455/itv/3000000001000026778.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播09, URL: http://129.146.6.71:35455/itv/3000000001000026778.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播10, URL: http://192.95.29.187:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播10, URL: http://129.146.6.71:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播11, URL: http://192.95.29.187:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播11, URL: http://129.146.6.71:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播12, URL: http://192.95.29.187:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播12, URL: http://129.146.6.71:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播13, URL: http://192.95.29.187:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播13, URL: http://129.146.6.71:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播14, URL: http://192.95.29.187:35455/itv/3000000010000002032.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播14, URL: http://129.146.6.71:35455/itv/3000000010000002032.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播15, URL: http://192.95.29.187:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播15, URL: http://129.146.6.71:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播16, URL: http://192.95.29.187:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播16, URL: http://129.146.6.71:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播17, URL: http://192.95.29.187:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播17, URL: http://129.146.6.71:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播18, URL: http://192.95.29.187:35455/itv/3000000010000004464.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播18, URL: http://129.146.6.71:35455/itv/3000000010000004464.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播19, URL: http://192.95.29.187:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播19, URL: http://129.146.6.71:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播20, URL: http://192.95.29.187:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播20, URL: http://129.146.6.71:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播21, URL: http://192.95.29.187:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播21, URL: http://129.146.6.71:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播22, URL: http://192.95.29.187:35455/itv/3000000010000006944.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播22, URL: http://129.146.6.71:35455/itv/3000000010000006944.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播23, URL: http://192.95.29.187:35455/itv/3000000010000007692.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播23, URL: http://129.146.6.71:35455/itv/3000000010000007692.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播24, URL: http://192.95.29.187:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播24, URL: http://129.146.6.71:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播25, URL: http://192.95.29.187:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播25, URL: http://129.146.6.71:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播26, URL: http://192.95.29.187:35455/itv/3000000010000011112.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播26, URL: http://129.146.6.71:35455/itv/3000000010000011112.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播27, URL: http://192.95.29.187:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播27, URL: http://129.146.6.71:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播28, URL: http://192.95.29.187:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播28, URL: http://129.146.6.71:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播29, URL: http://192.95.29.187:35455/itv/3000000010000011763.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播29, URL: http://129.146.6.71:35455/itv/3000000010000011763.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播30, URL: http://192.95.29.187:35455/itv/3000000010000011873.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播30, URL: http://129.146.6.71:35455/itv/3000000010000011873.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播31, URL: http://192.95.29.187:35455/itv/3000000010000012398.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播31, URL: http://129.146.6.71:35455/itv/3000000010000012398.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播32, URL: http://192.95.29.187:35455/itv/3000000010000012450.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播32, URL: http://129.146.6.71:35455/itv/3000000010000012450.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播33, URL: http://192.95.29.187:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播33, URL: http://129.146.6.71:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播34, URL: http://192.95.29.187:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播34, URL: http://129.146.6.71:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播35, URL: http://192.95.29.187:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播35, URL: http://129.146.6.71:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播36, URL: http://192.95.29.187:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播36, URL: http://129.146.6.71:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播37, URL: http://192.95.29.187:35455/itv/3000000010000017389.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播37, URL: http://129.146.6.71:35455/itv/3000000010000017389.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播38, URL: http://192.95.29.187:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播38, URL: http://129.146.6.71:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播39, URL: http://192.95.29.187:35455/itv/3000000010000017997.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播39, URL: http://129.146.6.71:35455/itv/3000000010000017997.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播40, URL: http://192.95.29.187:35455/itv/3000000010000019380.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播40, URL: http://129.146.6.71:35455/itv/3000000010000019380.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播41, URL: http://192.95.29.187:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播41, URL: http://129.146.6.71:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播42, URL: http://192.95.29.187:35455/itv/3000000010000020168.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播42, URL: http://129.146.6.71:35455/itv/3000000010000020168.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播43, URL: http://192.95.29.187:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播43, URL: http://129.146.6.71:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播44, URL: http://192.95.29.187:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播44, URL: http://129.146.6.71:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播45, URL: http://192.95.29.187:35455/itv/3000000010000024205.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播45, URL: http://129.146.6.71:35455/itv/3000000010000024205.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播46, URL: http://192.95.29.187:35455/itv/3000000010000024691.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播46, URL: http://129.146.6.71:35455/itv/3000000010000024691.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播47, URL: http://192.95.29.187:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播47, URL: http://129.146.6.71:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播48, URL: http://192.95.29.187:35455/itv/3000000010000025943.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播48, URL: http://129.146.6.71:35455/itv/3000000010000025943.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播49, URL: http://192.95.29.187:35455/itv/3000000010000027318.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播49, URL: http://129.146.6.71:35455/itv/3000000010000027318.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播50, URL: http://192.95.29.187:35455/itv/3000000010000027638.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播50, URL: http://129.146.6.71:35455/itv/3000000010000027638.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播51, URL: http://192.95.29.187:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播51, URL: http://129.146.6.71:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播52, URL: http://192.95.29.187:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播52, URL: http://129.146.6.71:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播53, URL: http://192.95.29.187:35455/itv/3000000010000032106.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕播53, URL: http://129.146.6.71:35455/itv/3000000010000032106.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕壹4K, URL: http://192.95.29.187:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕壹4K, URL: http://129.146.6.71:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕贰4K, URL: http://192.95.29.187:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1318 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 赛事咪咕贰4K, URL: http://129.146.6.71:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive$订阅源, IPv_Type: ipv4, Date: None, Delay: 1307 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: KL直播 5, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS1oZnV0eXMwNHZqbm04NzkuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 8, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS14bnVqNnN2bzIweXBoYTMuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 11, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS1md2FpOXN2M3liYmRxdTkuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 14, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS1nZjc4aHM4OXEzOG15dWIuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 17, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS05cXV2anM0aG9pbnN3N2guaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 20, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS02M3VmOXNoeGhvcW1oN28uaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 27, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS10b3UzM3NmMGZid2Q5dXkuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 30, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS0zNHVxd3NqODV3cWNvdXkuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 33, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS01MjdiM3N4MjU2NWs0N28uaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 36, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS1xNjc2dGN2NnZ5NW15dWIuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 39, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS04dnUyaWM2Mzh0NmNqNzMuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 42, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS1vanU5NnMzMHY2dG0xdXguaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 45, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS02OTc1OXN2OXdxd2NxdTIuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 48, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS1vbmEwOXN2aHpoMG1vYWguaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 51, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS1md2FpOXNmbzZqMWNxdTkuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 54, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS1xNjc2M3M1eG8zNXB5N2IuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 57, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS1nZjc4aHNmMm4ydGx5dWIuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 60, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS1qYnV4NnM0YnkzZ3JnYXYuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 65, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS02OTc1OXN2d3FqNWxxdTIuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 68, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS02M3VmOXNxanRqZmtoN28uaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 71, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS10Mzc0eXMwOGpneXBxYXkuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 74, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS01MjdiM3M0MDkwOW00N28uaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 77, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS13MmExNXNqMDU0aGxvNzYuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 80, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS05cXV2anMxdnlnM2N3N2guaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 83, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS04dnUybnNiMHkwZnBqNzMuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 86, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS14bmF3dnNnNDBxM2xidWYuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 89, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS05cXV2NmM2NXc2aWR3dWguaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 93, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS1mYmFneHNxZ3YzMm00YXguaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 96, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS1oZnV0eXM4YnZmM3M4NzkuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 99, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS02OTc1OXNxZ2lnOHJxdTIuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 102, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS14bnVqNnMzd2JmZmxoYTMuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 105, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS1vanU5NnNoOTh0eWMxdXguaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 108, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS12NnVvcXM4OWYzNGRmNzUuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 111, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS0zNHVxd3N5ZmlmaHJvdXkuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 114, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS15MTd6dHN5NjF4aGtpN3QuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 117, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS1mYmFnOWM5OTQ5Z200N3guaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 120, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS1xNjc2dGN2djU2bnN5dWIuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 123, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS10b3UzemNubjhuamU5YXkuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 126, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS1nZjc4NGNoaGZoaWR5YWIuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 129, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS12NnVvYmN3dzhnemxmYTUuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 132, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS15MDduamN3dzV3aGN3dXguaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 135, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS10Mzc0Z2M5OTB5MWxxdXkuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 138, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS01MjdidGNnZzRnM3I0dW8uaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 141, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS1vbmEwb2NubnZub2tvdWguaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 144, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS1vanU5MGN6ejNoNWQxdXguaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 147, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS04dnUyaWM2NmI2d2tqNzMuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 150, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS10Yjd5Z3Nib2dqeGxxYTAuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 153, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS1qYnV4NnNmNmhpaWxnYXYuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 156, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS10Yjd5Z3N6aGp3NXBxYTAuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 159, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS14bmF3YmMzM2cyNGVidWYuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 163, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS04dnUybnNoMmI0OGRqNzMuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 166, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS14bnVqNnMzd3lmeXBoYTMuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 169, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS13MmExNXN6anFnbmtvNzYuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 173, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS02M3VmOXNoaXFiMHNoN28uaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 176, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS05cXV2NmM2NXg4cWR3dWguaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 179, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS15MTd6OGNpNHgzMGVpdXQuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 183, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS10b3UzM3NmajhxM2U5dXkuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 186, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS04dnUyaWM2M3g2aWtqNzMuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 189, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS14bnVqNnMzd3R3dHJoYTMuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 194, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS15MDdueHNndjVmM3J3dXguaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 197, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS01MjdiM3M0MGk1dGw0N28uaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 200, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS14bnVqNnN2NHRiOWNoYTMuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 203, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS1qYnV4NnM0YnhqOWRnYXYuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 206, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS1vbmEwOXN2aDVuYmxvYWguaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 209, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS15dDdoOXNoMTM0M200N3EuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: KL直播 212, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=emhhbmd5dS12NnVvcXNndDBuaGNmNzUuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 高清NBA直播40 1, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=aHR0cDovL3d3dy5vemJ0di5jb20vdHYvcXFsaXZlNDAuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 高清NBA直播41 2, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=aHR0cDovL3d3dy5vemJ0di5jb20vdHYvcXFsaXZlNDEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 高清NBA直播42 23, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=aHR0cDovL3d3dy5vemJ0di5jb20vdHYvcXFsaXZlNDIuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 高清NBA直播43 24, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=aHR0cDovL3d3dy5vemJ0di5jb20vdHYvcXFsaXZlNDMuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 高清NBA直播70 3, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=aHR0cDovL3d3dy5vemJ0di5jb20vdHYvcXFsaXZlNzAuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 高清NBA直播71 25, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=aHR0cDovL3d3dy5vemJ0di5jb20vdHYvcXFsaXZlNzEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 高清NBA直播80 4, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=aHR0cDovL3d3dy5vemJ0di5jb20vdHYvcXFsaXZlODAuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 高清NBA直播81 26, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=aHR0cDovL3d3dy5vemJ0di5jb20vdHYvcXFsaXZlODEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 高清足球直播 92, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cXFsaXZlMTAwLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 高清足球直播1 63, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cXFsaXZlMS5odG1s, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 高清足球直播2 64, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cXFsaXZlMi5odG1s, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 高清足球直播3 172, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cXFsaXZlMy5odG1s, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 高清足球直播4 162, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cXFsaXZlNC5odG1s, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 高清足球直播5 182, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cXFsaXZlNS5odG1s, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 高清足球直播6 192, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cXFsaXZlNi5odG1s, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 高清足球直播7 193, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cXFsaXZlNy5odG1s, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 37, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTM4MjIxODEyLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 38, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItMzgyMjE4MTIuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 40, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTM4NDY0OTEyLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 41, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItMzg0NjQ5MTIuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 90, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTM4NDc5NDYyLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 91, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItMzg0Nzk0NjIuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 118, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTM4MDkzNzUyLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 119, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItMzgwOTM3NTIuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 121, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTM4MDkzNzgyLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 122, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItMzgwOTM3ODIuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 124, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTM4MDkzNzMyLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 125, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItMzgwOTM3MzIuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 127, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTM4MDkzNjcyLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 128, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItMzgwOTM2NzIuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 130, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTM4MDkzODAyLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 131, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItMzgwOTM4MDIuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 133, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTM4MDkzNzQyLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 134, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItMzgwOTM3NDIuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 136, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTM4MDkzNzcyLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 137, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItMzgwOTM3NzIuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 139, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTM4MDkzNjYyLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 140, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItMzgwOTM2NjIuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 142, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTM4MDkzNjgyLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 143, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItMzgwOTM2ODIuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 145, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTM4MDkzNzkyLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 146, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItMzgwOTM3OTIuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 148, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTM4MDkzNzEyLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 149, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItMzgwOTM3MTIuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 160, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTM4MDkzNzYyLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 161, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItMzgwOTM3NjIuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 177, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTM4NDY0NzkyLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 178, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItMzg0NjQ3OTIuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 180, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTM4NDg0MjUyLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 181, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItMzg0ODQyNTIuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 187, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTM4NDc5NTMyLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版篮球直播 188, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItMzg0Nzk1MzIuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 6, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQyNzQ3NjYxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 7, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDI3NDc2NjEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 9, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQyOTM5NDAxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 10, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDI5Mzk0MDEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 12, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQyNTMzMzQxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 13, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDI1MzMzNDEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 15, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQyNTMzNjQxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 16, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDI1MzM2NDEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 18, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQyNjc2NTAxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 19, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDI2NzY1MDEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 21, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQyNTEzMDExLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 22, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDI1MTMwMTEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 28, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQyNTEzMDIxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 29, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDI1MTMwMjEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 31, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQyNTMzNDIxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 32, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDI1MzM0MjEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 34, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQyNTM0MTYxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 35, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDI1MzQxNjEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 43, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQzMTYxOTgxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 44, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDMxNjE5ODEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 46, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQyNTYzOTcxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 47, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDI1NjM5NzEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 49, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQzMTQyNDQxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 50, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDMxNDI0NDEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 52, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQzMTYyMDQxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 53, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDMxNjIwNDEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 55, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQzMTYxOTcxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 56, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDMxNjE5NzEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 58, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQzMTQyNDMxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 59, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDMxNDI0MzEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 61, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQzMTYyMDIxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 62, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDMxNjIwMjEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 66, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQyNzkzNDgxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 67, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDI3OTM0ODEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 69, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQzMTQyNDgxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 70, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDMxNDI0ODEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 72, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQzMTYxOTYxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 73, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDMxNjE5NjEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 75, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQzMTQyNDIxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 76, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDMxNDI0MjEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 78, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQzMTYyMDExLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 79, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDMxNjIwMTEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 81, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQzMTU3NzkxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 82, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDMxNTc3OTEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 84, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQzMTQyNDcxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 85, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDMxNDI0NzEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 87, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQzMTYxOTUxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 88, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDMxNjE5NTEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 94, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQzMDQxMjcxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 95, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDMwNDEyNzEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 97, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQzMTYyMDAxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 98, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDMxNjIwMDEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 100, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQzMTQyNDYxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 101, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDMxNDI0NjEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 103, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQzMTY5NDQxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 104, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDMxNjk0NDEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 106, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQyNTY0MDYxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 107, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDI1NjQwNjEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 109, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQzMTYxOTkxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 110, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDMxNjE5OTEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 112, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQzMTQyNDUxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 113, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDMxNDI0NTEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 115, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQzMTYyMDUxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 116, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDMxNjIwNTEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 151, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQzMDg2MDcxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 152, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDMwODYwNzEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 154, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQyNTY1NjQxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 155, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDI1NjU2NDEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 157, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQzMTYyMDYxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 158, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDMxNjIwNjEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 164, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQyNzkzNDkxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 165, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDI3OTM0OTEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 167, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQzMTU3ODAxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 168, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDMxNTc4MDEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 170, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQxNjMwMDgxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 171, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDE2MzAwODEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 174, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQyNzkzNTAxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 175, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDI3OTM1MDEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 184, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQyNzkzNTExLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 185, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDI3OTM1MTEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 190, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQzMTg4NTgxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 191, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDMxODg1ODEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 195, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQyNzkzNTIxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 196, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDI3OTM1MjEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 198, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQzMTU3ODExLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 199, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDMxNTc4MTEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 201, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQyNDk4NzUxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 202, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDI0OTg3NTEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 204, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQzMTU5MjMxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 205, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDMxNTkyMzEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 207, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQzMTUxMDAxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 208, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDMxNTEwMDEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 210, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQzMTU5MjQxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 211, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDMxNTkyNDEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 213, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=cGx1LTQyOTUxMTQxLmh0bWw=, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 原版足球直播 214, URL: http://zhibo.feylen.top/fltv/js/yoogather.php?id=YmItNDI5NTExNDEuaHRtbA==, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
