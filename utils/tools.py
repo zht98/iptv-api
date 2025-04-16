@@ -585,6 +585,8 @@ def get_name_url(content, pattern, open_headers=False, check_url=True):
             }
             headers = {k: v for k, v in headers.items() if v}
             data["headers"] = headers
+        elif group_dict.get("attributes") or group_dict.get("options"):
+            continue
         result.append(data)
     return result
 

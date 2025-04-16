@@ -386,7 +386,7 @@ class DefaultUI:
         self.open_empty_category_checkbutton.pack(side=tk.LEFT, padx=4, pady=8)
 
         self.ipv6_support_label = tk.Label(
-            frame_default_open_empty_category_column2, text="强制支持IPv6:", width=12
+            frame_default_open_empty_category_column2, text="强制认为当前网络支持IPv6:", width=22
         )
         self.ipv6_support_label.pack(side=tk.LEFT, padx=4, pady=8)
         self.ipv6_support_var = tk.BooleanVar(value=config.ipv6_support)
