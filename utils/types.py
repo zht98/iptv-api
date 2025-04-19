@@ -28,7 +28,7 @@ class TestResult(TypedDict):
     """
     speed: int | float | None
     delay: int | float | None
-    resolution: str | None
+    resolution: int | str | None
 
 
 TestResultCacheData = dict[str, list[TestResult]]

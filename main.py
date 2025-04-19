@@ -78,7 +78,11 @@ class UpdateSource:
                         subscribe_urls = [join_url(config.cdn_url, url) if "raw.githubusercontent.com" in url else url
                                           for url in subscribe_urls]
                     task = asyncio.create_task(
-                        task_func(subscribe_urls, whitelist=whitelist_urls, callback=self.update_progress)
+                        task_func(subscribe_urls,
+                                  names=channel_names,
+                                  whitelist=whitelist_urls,
+                                  callback=self.update_progress
+                                  )
                     )
                 elif setting == "hotel_foodie" or setting == "hotel_fofa":
                     task = asyncio.create_task(task_func(callback=self.update_progress))

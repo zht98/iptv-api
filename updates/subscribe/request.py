@@ -18,6 +18,7 @@ from utils.tools import (
 
 async def get_channels_by_subscribe_urls(
         urls,
+        names=None,
         multicast=False,
         hotel=False,
         retry=True,
@@ -89,13 +90,15 @@ async def get_channels_by_subscribe_urls(
                     name = item["name"]
                     url = item["url"]
                     if name and url:
+                        name = format_channel_name(name)
+                        if names and name not in names:
+                            continue
                         url = url.partition("$")[0]
                         value = url if multicast else {"url": url, "headers": item.get("headers", None)}
                         if in_whitelist:
                             value["origin"] = "whitelist"
                         if hotel:
                             value["extra_info"] = f"{region}{hotel_name}"
-                        name = format_channel_name(name)
                         if name in channels:
                             if multicast:
                                 if value not in channels[name][region][url_type]:

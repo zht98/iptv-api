@@ -546,18 +546,18 @@ def get_name_url(content, pattern, open_headers=False, check_url=True):
         if not name or (check_url and not url):
             continue
         data = {"name": name, "url": url}
-        if open_headers:
-            attributes = {**get_headers_key_value(group_dict.get("attributes", "")),
-                          **get_headers_key_value(group_dict.get("options", ""))}
-            headers = {
-                "User-Agent": attributes.get("useragent", ""),
-                "Referer": attributes.get("referer", ""),
-                "Origin": attributes.get("origin", "")
-            }
-            headers = {k: v for k, v in headers.items() if v}
-            data["headers"] = headers
-        elif group_dict.get("attributes") or group_dict.get("options"):
+        attributes = {**get_headers_key_value(group_dict.get("attributes", "")),
+                      **get_headers_key_value(group_dict.get("options", ""))}
+        headers = {
+            "User-Agent": attributes.get("useragent", ""),
+            "Referer": attributes.get("referer", ""),
+            "Origin": attributes.get("origin", "")
+        }
+        headers = {k: v for k, v in headers.items() if v}
+        if not open_headers and headers:
             continue
+        if open_headers:
+            data["headers"] = headers
         result.append(data)
     return result
 

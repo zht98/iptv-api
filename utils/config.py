@@ -169,6 +169,14 @@ class ConfigManager:
         return get_resolution_value(self.min_resolution)
 
     @property
+    def max_resolution(self):
+        return self.config.get("Settings", "max_resolution", fallback="1920x1080")
+
+    @property
+    def max_resolution_value(self):
+        return get_resolution_value(self.max_resolution)
+
+    @property
     def urls_limit(self):
         return self.config.getint("Settings", "urls_limit", fallback=30)
 

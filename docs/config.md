@@ -41,6 +41,7 @@
 | local_file             | 本地源文件路径                                                                                                                                                               | config/local.txt  |
 | local_num              | 结果中偏好的本地源接口数量                                                                                                                                                         | 10                |
 | min_resolution         | 接口最小分辨率，需要开启 open_filter_resolution 才能生效                                                                                                                              | 1920x1080         |
+| max_resolution         | 接口最大分辨率，需要开启 open_filter_resolution 才能生效                                                                                                                              | 1920x1080         |
 | min_speed              | 接口最小速率（单位M/s），需要开启 open_filter_speed 才能生效                                                                                                                             | 0.2               |
 | multicast_num          | 结果中偏好的组播源接口数量                                                                                                                                                         | 10                |
 | multicast_page_num     | 组播地区获取分页数量                                                                                                                                                            | 1                 |
