@@ -1,1 +1,19 @@
+🕘️更新时间,#genre#
+2025-05-17 16:08:12,http://sport.pendy.dpdns.org/migu/608807420
+
 📺央视频道,#genre#
+CCTV1,http://sport.pendy.dpdns.org/migu/608807420
+CCTV1,http://goo.bkpcp.top/mg/cctv1
+CCTV1,https://smart.pendy.dpdns.org/Smart.php
+CCTV2,http://sport.pendy.dpdns.org/migu/631780532
+CCTV2,http://goo.bkpcp.top/mg/cctv2
+CCTV2,https://smart.pendy.dpdns.org/Smart.php
+CCTV3,http://sport.pendy.dpdns.org/migu/624878271
+CCTV3,http://goo.bkpcp.top/mg/cctv3
+CCTV3,https://smart.pendy.dpdns.org/Smart.php
+CCTV4,http://sport.pendy.dpdns.org/migu/631780421
+CCTV4,http://goo.bkpcp.top/mg/cctv4
+CCTV4,https://smart.pendy.dpdns.org/Smart.php
+CCTV5,http://sport.pendy.dpdns.org/migu/641886683
+CCTV5,http://goo.bkpcp.top/mg/cctv5
+CCTV5,https://smart.pendy.dpdns.org/Smart.php
