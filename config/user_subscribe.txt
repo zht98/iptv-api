@@ -11,5 +11,5 @@
 # https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 # https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 # https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
-
-https://raw.githubusercontent.com/zhsohu88/maoTV/main/output.txt
+http://dd.rihou.cc:555/gggg.nzk
+# https://raw.githubusercontent.com/zhsohu88/maoTV/main/output.txt
