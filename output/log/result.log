@@ -1,18 +1,20 @@
 Name: CCTV1, URL: http://sport.pendy.dpdns.org/migu/608807420, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV1, URL: http://goo.bkpcp.top/mg/cctv1, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV1, URL: https://smart.pendy.dpdns.org/Smart.php, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV1, URL: http://222.84.234.80:4022/udp/239.81.0.102:4056, IPv_Type: ipv4, Location: 中国-广西-百色, ISP: 电信, Date: None, Delay: 464 ms, Speed: 0.90 M/s, Resolution: 1920x1080
 Name: CCTV2, URL: http://sport.pendy.dpdns.org/migu/631780532, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV2, URL: http://goo.bkpcp.top/mg/cctv2, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV2, URL: https://smart.pendy.dpdns.org/Smart.php, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV2, URL: http://222.84.234.80:4022/udp/239.81.0.115:4056, IPv_Type: ipv4, Location: 中国-广西-百色, ISP: 电信, Date: None, Delay: 501 ms, Speed: 0.69 M/s, Resolution: 1920x1080
 Name: CCTV3, URL: http://sport.pendy.dpdns.org/migu/624878271, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV3, URL: http://goo.bkpcp.top/mg/cctv3, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV3, URL: https://smart.pendy.dpdns.org/Smart.php, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV3, URL: http://59.188.94.126:35455/bptv/10000100000000050000000003870746.m3u8, IPv_Type: ipv4, Location: 中国-香港, ISP: 新世界电讯有限公司, Date: None, Delay: 10514 ms, Speed: 0.66 M/s, Resolution: 1920x1080
+Name: CCTV3, URL: http://222.84.234.80:4022/udp/239.81.0.231:4056, IPv_Type: ipv4, Location: 中国-广西-百色, ISP: 电信, Date: None, Delay: 1306 ms, Speed: 0.57 M/s, Resolution: 1920x1080
 Name: CCTV4, URL: http://sport.pendy.dpdns.org/migu/631780421, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV4, URL: http://goo.bkpcp.top/mg/cctv4, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV4, URL: https://smart.pendy.dpdns.org/Smart.php, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV4, URL: http://58.62.234.21:10000/udp/239.77.1.163:5146, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 电信, Date: None, Delay: 437 ms, Speed: 0.55 M/s, Resolution: 1920x1080
+Name: CCTV4, URL: http://222.84.234.80:4022/udp/239.81.0.96:4056, IPv_Type: ipv4, Location: 中国-广西-百色, ISP: 电信, Date: None, Delay: 520 ms, Speed: 0.62 M/s, Resolution: 1920x1080
 Name: CCTV5, URL: http://sport.pendy.dpdns.org/migu/641886683, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV5, URL: http://goo.bkpcp.top/mg/cctv5, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV5, URL: https://smart.pendy.dpdns.org/Smart.php, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV5, URL: http://58.62.234.21:10000/udp/239.77.0.170:5146, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 电信, Date: None, Delay: 438 ms, Speed: 0.53 M/s, Resolution: 1920x1080
+Name: CCTV5, URL: http://222.84.234.80:4022/udp/239.81.0.232:4056, IPv_Type: ipv4, Location: 中国-广西-百色, ISP: 电信, Date: None, Delay: 509 ms, Speed: 0.71 M/s, Resolution: 1920x1080
