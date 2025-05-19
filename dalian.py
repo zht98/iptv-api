@@ -22,7 +22,7 @@ def fetch_playlist_url():
     ]  # 添加注释行
     for channel_name, channel_id in idn.items():  # 遍历每个频道名称及其对应的频道ID
         url = f"https://dlyapp.dltv.cn/apiv4.5/api/m3u8_notoken?channelid={channel_id}"  # 构建请求URL
-        for _ in range(3):  # 尝试三次
+        for _ in range(1):  # 尝试三次
             try:
                 response = requests.get(url, headers=headers)  # 发送HTTP GET请求
                 if response.status_code == 200:  # 如果请求成功，退出重试循环
