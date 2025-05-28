@@ -1,2 +1,3 @@
 📺央视频道,#genre#
-cctv1,http://219.145.201.198:3389/cctv1ly/index.m3u8
+CCTV1,http://219.145.201.198:3389/cctv1ly/index.m3u8
+CCTV1,http://112.99.193.34:9901/tsfile/live/1017_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
