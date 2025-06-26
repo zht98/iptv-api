@@ -4,5 +4,4 @@
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 
 # 自己添加的白名单
-赛事咪咕01,http://39.135.134.67/000000001000/3000000001000005308/index.m3u8
-赛事咪咕01,http://58.39.190.143:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
+
