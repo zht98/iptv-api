@@ -3,5 +3,4 @@
 # This is the alias list for channel names, used to map multiple names to a single name when fetching from the interface, improving the fetch volume and accuracy.
 # Format: TemplateChannelName,Alias1,Alias2,Alias3
 
-赛事咪咕01,http://39.135.134.67/000000001000/3000000001000005308/index.m3u8
-赛事咪咕01,http://58.39.190.143:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
+赛事咪咕01,咪咕1,咪咕视频-1,咪咕体育 24,赛事播01,赛事咪咕播01,咪咕足球赛事-2,咪咕直播-1,咪咕直播1,咪咕直播 𝟙「IPV4」,咪咕直播,🄼🅈咪咕播01
