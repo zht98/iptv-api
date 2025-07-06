@@ -3,3 +3,5 @@
 http://39.135.134.67/000000001000/3000000001000005308/index.m3u8
 #EXTINF:-1 tvg-name="赛事咪咕01" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕01.png" group-title="📺央视频道",赛事咪咕01
 http://58.39.190.143:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕01" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕01.png" group-title="📺央视频道",赛事咪咕01
+http://114.103.187.33:35455/itv/3000000001000005308.m3u8
