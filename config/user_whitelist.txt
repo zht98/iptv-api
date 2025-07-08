@@ -4,20 +4,4 @@
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 
 # 自己添加的白名单
-极限电影标限
-极限电影标限
-极限电影标限
-极限电影标限
-彩虹电影标限
-香蕉极限高限
-惊艳极限高限
-潘多拉限高限
-奇频道限高限
-依频道限高限
-松视壹限标限
-松视贰限高限
-松视叁限高限
-HAppy限标限
-PIGOO限标限
-免仔-P限高限
-免仔极限高限
+xgdzht.v6.navy:801/IPTV
