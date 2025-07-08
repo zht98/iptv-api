@@ -1,7 +1,10 @@
 📺央视频道,#genre#
 极限电影标限,https://vd3.bdstatic.com/mda-mm0idb9dszenhcc2/hd/cae_h264_delogo/1643304760701030598/mda-mm0idb9dszenhcc2.mp4
 极限电影标限,https://vdse.bdstatic.com//06c6164d2434f16bca0da3e4d37c06b5.mp4
+彩虹电影标限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/z3vioEnnq6fazlKxOuQks8WIN82SnKr5jOVaFLxJnFR3xh0yeZAHbUoq0JC4eA85F9aVK5d.flv
 潘多拉限高限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/QJk9JKePxWTWIN82SF2FrI1bAg0onl3XJeEg2hJx7MEpqkqGMuiherpMMcXQWnnqH6EwDw1.flv
 奇频道限高限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hiHM5ncGq88mS771UGJIQdj1UQRC5zEpPvltbelG4lOCgu51gnklxR1CTWIN82S3gyRVS1D.flv
 松视叁限高限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/FsBKWIN82SWtpqNZ5XwtVXTY6Aj0VeGNTdCEW6eNvzPcNuSOR4Svno6yvWbeffuxXijjTCG.flv
+PIGOO限标限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/gQT7Pt3R07qv16IRy2GWzCz5BwOFZ75M9SFBak7ILZPhOXidtDdw94P7d18kIRToWIN82SL.flv
+免仔-P限高限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/gaMW5Fw3TTPx5i0AZCleY6e1u9bYrHqmROzAYWCA2kEh7PYezHjtEdI8VqvTu9OoWwQJ0N.flv
 免仔极限高限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/ga2ndJvhw9nN8gQLnzJxGUFvtsVaFmWKjsDq2BceNFU5m9uhHGbiRZTBbYmhTHTWV69cjo.flv
