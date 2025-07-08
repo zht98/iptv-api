@@ -2,3 +2,20 @@
 # 支持设置白名单：接口后添加$!
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
+极限电影标限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/lSQIN7ZilUt4xOM8Z8SjhLix8pcxUYVtqotEfbjMDAW45Zauexz20FgefUmXu3KH9cje5vI.flv $!
+极限电影标限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/lSQIN7ZilUt4xOM8Z8SjhLix8pcxUYVtqotEfbjMDAW45Zauexz20FgefUmXu3KH9cje5vI.flv$!
+极限电影标限,https://vd3.bdstatic.com/mda-mm0idb9dszenhcc2/hd/cae_h264_delogo/1643304760701030598/mda-mm0idb9dszenhcc2.mp4$!
+极限电影标限,https://vdse.bdstatic.com//06c6164d2434f16bca0da3e4d37c06b5.mp4$!
+彩虹电影标限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/z3vioEnnq6fazlKxOuQks8WIN82SnKr5jOVaFLxJnFR3xh0yeZAHbUoq0JC4eA85F9aVK5d.flv $!
+香蕉极限高限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/d92V8Zz2TED1uMZLvxgjU8AQ3KkEFUrWefYwWIN82SpnedhSlSfkDvQbYMsQ6REWXm3KK7w.flv$!
+惊艳极限高限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yi4kZsc1OMsWeiwtuiom4eKg1a2sZYFOboiqWjIHjgisFU0S1U9Z6Rd3gRWIN82S5qWDX2z.flv $!
+潘多拉限高限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/QJk9JKePxWTWIN82SF2FrI1bAg0onl3XJeEg2hJx7MEpqkqGMuiherpMMcXQWnnqH6EwDw1.flv$!
+奇频道限高限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hiHM5ncGq88mS771UGJIQdj1UQRC5zEpPvltbelG4lOCgu51gnklxR1CTWIN82S3gyRVS1D.flv$!
+依频道限高限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/6ed5wPaimtn9s2WIN82SFglbUd2W8ULyfGhhe57xXtWizhdlhViIk14eiv0MVkhczdGQDzT.flv$!
+松视壹限标限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yMEfUMSXGJOYWIN82SgzlTKtnLxTD2O5uQeurEwkgAR6jeQhq4Ue2eh2xqARF4Q4Mgdxjvi.flv$!
+松视贰限高限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/Ekd9LXoVeWIN82SuFi1L18mVvfVvkXiHHQkBPzGerfsHVAiEjJPoN2oGCSlKVkHdOIaB0Mt.flv$!
+松视叁限高限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/FsBKWIN82SWtpqNZ5XwtVXTY6Aj0VeGNTdCEW6eNvzPcNuSOR4Svno6yvWbeffuxXijjTCG.flv$!
+HAppy限标限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/QMvkIFbhUHrffF6gYEJrE4zuyUF67AEojqE9ZCoa6jCOYst1vIVVrlv3WIN82SISmeVlwM0.flv $!
+PIGOO限标限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/gQT7Pt3R07qv16IRy2GWzCz5BwOFZ75M9SFBak7ILZPhOXidtDdw94P7d18kIRToWIN82SL.flv $!
+免仔-P限高限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/gaMW5Fw3TTPx5i0AZCleY6e1u9bYrHqmROzAYWCA2kEh7PYezHjtEdI8VqvTu9OoWwQJ0N.flv $!
+免仔极限高限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/ga2ndJvhw9nN8gQLnzJxGUFvtsVaFmWKjsDq2BceNFU5m9uhHGbiRZTBbYmhTHTWV69cjo.flv$!
