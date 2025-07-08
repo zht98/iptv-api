@@ -16,4 +16,4 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 # http://dd.rihou.cc:555/gggg.nzk/
 # http://rihou.cc:555/gggg.nzk
 # http://110.90.201.39:555/gggg.nzk/
-# http://xgdzht.v6.navy:801/IPTV/%E7%8C%AB%E7%9B%B4%E6%92%AD.txt
+http://xgdzht.v6.navy:801/IPTV/%E7%8C%AB%E7%9B%B4%E6%92%AD.txt
