@@ -13,5 +13,5 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 # http://dd.rihou.cc:555/gggg.nzk/
 http://rihou.cc:555/gggg.nzk
-
+http://110.90.201.39:555/gggg.nzk/
 # 自己添加的订阅源
