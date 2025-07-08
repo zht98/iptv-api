@@ -4,4 +4,4 @@
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 
 # 自己添加的白名单
-xgdzht.v6.navy:801/IPTV
+xgdzht.v6.navy:801/IPTV/%E7%8C%AB%E7%9B%B4%E6%92%AD.txt
