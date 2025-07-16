@@ -3,4 +3,9 @@ CCTV1,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamob
 CCTV1,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 CCTV1,http://39.134.65.141/PLTV/88888888/224/3221225816/1.m3u8
 CCTV1,http://219.145.201.198:3389/cctv1ly/index.m3u8
+CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+CCTV1,http://120.76.248.139/live/bfgd/4200000484.m3u8
+CCTV1,http://120.76.248.139/live/bfgd/4200000201.m3u8
+CCTV1,http://120.76.248.139/live/bfgd/4200000489.m3u8
+CCTV1,http://120.76.248.139/live/bfgd/4200000488.m3u8
 CCTV1,http://112.99.193.34:9901/tsfile/live/1017_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
