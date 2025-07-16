@@ -4,7 +4,7 @@
 # 易看电视
 # http://117.72.68.25:9230/latest.txt
 # 海燕直播
-https://chuxinya.top/f/AD5QHE/%E6%B5%B7%E7%87%95.txt
+# https://chuxinya.top/f/AD5QHE/%E6%B5%B7%E7%87%95.txt
 # 乘风TV-1.0.0-002
 http://file.91kds.cn/tvlist/2025030711/kds_all_lnyd.txt
 # 拾光ITV
