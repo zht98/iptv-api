@@ -3,38 +3,8 @@
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
 
-央视频道,#genre#
-CCTV1,http://39.135.133.154:80/TVOD/88888888/224/3221226119/main.m3u8$仅供娱乐
-CCTV1,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8$切勿商用
-CCTV1,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226559/index.m3u8$追责自负
-CCTV1,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8$免费分享
-CCTV1,http://39.135.133.177:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV1,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226016/.m3u8
-CCTV1,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-CCTV1,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV1,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226559/index.m3u8
-CCTV1,http://39.135.133.177:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-CCTV1,http://39.134.65.106/PLTV/88888888/224/3221225816/1.m3u8
-CCTV1,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226559/index.m3u8
-CCTV1,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-CCTV1,http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-CCTV1,http://39.134.65.106/PLTV/88888888/224/3221226119/1.m3u8
-CCTV1,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8
-CCTV1,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV1,http://39.135.133.155:80/TVOD/88888888/224/3221226119/main.m3u8
-CCTV1,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-CCTV1,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV1,http://39.135.133.177:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226559/index.m3u8
-CCTV1,http://39.135.133.177:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8
-CCTV1,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8
-CCTV1,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV1,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8
-CCTV1,http://39.134.65.106/PLTV/88888888/224/3221226075/1.m3u8
-CCTV1,http://39.135.133.167:80/TVOD/88888888/224/3221225816/main.m3u8
-CCTV1,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
-CCTV1,http://39.135.133.177:80/TVOD/88888888/224/3221225816/main.m3u8
 CCTV1,http://39.135.133.157:80/TVOD/88888888/224/3221225816/main.m3u8
-CCTV1,http://39.135.133.177:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
-CCTV1,http://148.135.93.213:81/live.php?id=CCTV1
-CCTV1,http://106.52.196.79/TV/mui.php?id=cctv1
-CCTV1,http://118.89.87.74:88/live.php?id=CCTV1
+CCTV1,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV1,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+CCTV1,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8
+CCTV1,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226559/index.m3u8$追责自负
