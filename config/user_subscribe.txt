@@ -2,7 +2,7 @@
 # This is a list of subscription sources, with one subscription address per line
 
 # 易看电视
-http://117.72.68.25:9230/latest.txt
+# http://117.72.68.25:9230/latest.txt
 # 海燕直播
 https://chuxinya.top/f/AD5QHE/%E6%B5%B7%E7%87%95.txt
 # 乘风TV-1.0.0-002
