@@ -4,6 +4,32 @@
 # Support setting whitelist: add $! after the interface
 
 # CCTV1,http://39.135.133.157:80/TVOD/88888888/224/3221225816/main.m3u8
-CCTV1,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+# CCTV1,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 # CCTV1,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8
 # http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8
+
+CCTV1,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+CCTV1,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226016/.m3u8
+CCTV1,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV1,http://39.135.133.154:80/TVOD/88888888/224/3221226119/main.m3u8$仅供娱乐
+CCTV1,http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+CCTV1,http://39.135.133.155:80/TVOD/88888888/224/3221226119/main.m3u8
+CCTV1,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8$切勿商用
+CCTV1,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226559/index.m3u8
+CCTV1,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+CCTV1,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226559/index.m3u8$追责自负
+CCTV1,http://39.135.133.167:80/TVOD/88888888/224/3221225816/main.m3u8
+CCTV1,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV1,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
+CCTV1,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8
+CCTV1,http://39.135.133.177:80/TVOD/88888888/224/3221225816/main.m3u8
+CCTV1,http://39.135.133.177:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV1,http://39.135.133.177:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+CCTV1,http://39.135.133.177:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
+CCTV1,http://39.135.133.177:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8
+CCTV1,http://39.135.133.177:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226559/index.m3u8
+CCTV1,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV1,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+CCTV1,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8$免费分享
+CCTV1,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8
+CCTV1,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226559/index.m3u8
