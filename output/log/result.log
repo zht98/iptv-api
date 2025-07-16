@@ -36,7 +36,6 @@ Name: CCTV1, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/
 Name: CCTV1, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV1, URL: http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV1, URL: http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV1, URL: https://stream1.freetv.fun/ce5384774a118c8eccc8a7402ba31e40b0fd0e08e06a0220c0043cfca4400c14.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV1, URL: https://stream1.freetv.fun/9f70f5d60b14bb1ef93886f17fa8f20f55f4a36ac45206f6c5a5bf9654d6e4fb.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV1, URL: https://stream1.freetv.fun/2622897affd8a1c93ab36252984ab0e499d1e4a6fc76b87e6ef8039de3f2e642.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV1, URL: https://stream1.freetv.fun/354e2e055127bbf43693aa848d84f93f5bcc517472a8858f188f313dbf157f51.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -112,9 +111,12 @@ Name: CCTV1, URL: http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226635/index.m3u
 Name: CCTV1, URL: http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226721/index.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV1, URL: http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226979/index.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV1, URL: http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226759/index.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV1, URL: https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8, IPv_Type: ipv4, Location: 美国, ISP: Akamai节点, Date: None, Delay: 1738 ms, Speed: 10.13 M/s, Resolution: 1920x1080
-Name: CCTV1, URL: http://120.76.248.139/live/bfgd/4200000484.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 2961 ms, Speed: 1.90 M/s, Resolution: 1920x1080
-Name: CCTV1, URL: http://120.76.248.139/live/bfgd/4200000201.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 3299 ms, Speed: 1.74 M/s, Resolution: 1920x1080
-Name: CCTV1, URL: http://8.138.7.223/tv/dl/careryun.php?id=1, IPv_Type: ipv4, Location: 中国, ISP: 阿里云, Date: None, Delay: 315 ms, Speed: 1.68 M/s, Resolution: None
-Name: CCTV1, URL: http://120.76.248.139/live/bfgd/4200000488.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 2739 ms, Speed: 1.32 M/s, Resolution: 1920x1080
-Name: CCTV1, URL: http://112.99.193.34:9901/tsfile/live/1017_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0, IPv_Type: ipv4, Location: 中国-黑龙江-大庆, ISP: 电信, Date: None, Delay: 3825 ms, Speed: 0.85 M/s, Resolution: 720x576
+Name: CCTV1, URL: https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8, IPv_Type: ipv4, Location: 美国, ISP: Akamai节点, Date: None, Delay: 1693 ms, Speed: 10.39 M/s, Resolution: 1920x1080
+Name: CCTV1, URL: http://120.76.248.139/live/bfgd/4200000201.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 2900 ms, Speed: 1.91 M/s, Resolution: 1920x1080
+Name: CCTV1, URL: http://120.76.248.139/live/bfgd/4200000484.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 2938 ms, Speed: 1.89 M/s, Resolution: 1920x1080
+Name: CCTV1, URL: http://8.138.7.223/tv/dl/careryun.php?id=1, IPv_Type: ipv4, Location: 中国, ISP: 阿里云, Date: None, Delay: 295 ms, Speed: 1.83 M/s, Resolution: None
+Name: CCTV1, URL: http://120.76.248.139/live/bfgd/4200000488.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 2807 ms, Speed: 1.28 M/s, Resolution: 1920x1080
+Name: CCTV1, URL: http://112.99.193.34:9901/tsfile/live/1017_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0, IPv_Type: ipv4, Location: 中国-黑龙江-大庆, ISP: 电信, Date: None, Delay: 3922 ms, Speed: 0.83 M/s, Resolution: 720x576
+Name: CCTV1, URL: http://web9916.w.computerqwq.cf/jzb.php?id=cctv1&公众号【医工学习日志】, IPv_Type: ipv4, Location: 中国-香港-新界, ISP: LARUS, Date: None, Delay: 2782 ms, Speed: 0.66 M/s, Resolution: 1280x720
+Name: CCTV1, URL: http://106.52.196.79/TV/mui.php?id=cctv1, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 腾讯云, Date: None, Delay: 1798 ms, Speed: 0.52 M/s, Resolution: 854x480
+Name: CCTV1, URL: http://171.15.18.199:8180/TV00000000000000000001@HHZT, IPv_Type: ipv4, Location: 中国-河南-漯河, ISP: 电信, Date: None, Delay: 512 ms, Speed: 0.52 M/s, Resolution: None
