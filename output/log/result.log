@@ -7,7 +7,5 @@ Name: CCTV1, URL: http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLT
 Name: CCTV1, URL: http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV1, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV1, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV1, URL: http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV1, URL: http://1.180.2.93:9901/tsfile/live/1020_1.m3u8, IPv_Type: ipv4, Location: 中国-内蒙古-呼和浩特, ISP: 电信, Date: None, Delay: 4451 ms, Speed: 1.35 M/s, Resolution: 1920x1080
-Name: CCTV1, URL: http://183.223.157.33:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-四川-广安, ISP: 移动, Date: None, Delay: 10167 ms, Speed: 0.89 M/s, Resolution: None
-Name: CCTV1, URL: http://112.99.193.34:9901/tsfile/live/1017_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0, IPv_Type: ipv4, Location: 中国-黑龙江-大庆, ISP: 电信, Date: None, Delay: 5698 ms, Speed: 0.66 M/s, Resolution: 720x576
+Name: CCTV1, URL: http://1.180.2.93:9901/tsfile/live/1020_1.m3u8, IPv_Type: ipv4, Location: 中国-内蒙古-呼和浩特, ISP: 电信, Date: None, Delay: 4183 ms, Speed: 1.59 M/s, Resolution: 1920x1080
+Name: CCTV1, URL: http://112.99.193.34:9901/tsfile/live/1017_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0, IPv_Type: ipv4, Location: 中国-黑龙江-大庆, ISP: 电信, Date: None, Delay: 4119 ms, Speed: 0.76 M/s, Resolution: 720x576
