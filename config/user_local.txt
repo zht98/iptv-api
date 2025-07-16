@@ -2,12 +2,6 @@
 # 支持设置白名单：接口后添加$!
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
-http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8
-
-更新时间: 2025-07-16 05:38:30（北京时间）仅供娱乐，切勿商用。
-
-素弦更新时间,#genre#
-2025-07-16 05:38:30,https://live.kakaxi-1.ink/LOGO/Disclaimer.mp4
 
 央视频道,#genre#
 CCTV1,http://39.135.133.154:80/TVOD/88888888/224/3221226119/main.m3u8$仅供娱乐
