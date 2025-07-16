@@ -6,7 +6,7 @@
 # 海燕直播
 # https://chuxinya.top/f/AD5QHE/%E6%B5%B7%E7%87%95.txt
 # 乘风TV-1.0.0-002
-http://file.91kds.cn/tvlist/2025030711/kds_all_lnyd.txt
+# http://file.91kds.cn/tvlist/2025030711/kds_all_lnyd.txt
 # 拾光ITV
 https://4708.kstore.space/svip/ITV.txt
 # 幸福年年
