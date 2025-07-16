@@ -1,10 +1,13 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-# https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
-https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
-# https://raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
-# https://raw.githubusercontent.com/xzw832/cmys/main/S_weishi.txt
-https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/kr.m3u
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kr.m3u
+# 拾光｜影仓0312
+https://4708.kstore.space/svip/ITV.txt
+# 月光宝盒
+https://3043.kstore.space/bhvip/bhzb.txt
+# NEW直播
+https://raw.githubusercontent.com/chuzjie/wuihui/main/小米/DSJ240101.txt
+# 七星itv
+https://gitlab.com/tvkj/loong/-/raw/main/loog.txt
+# 野火LIVE
+https://pastebin.com/raw/V0BhYHF4
