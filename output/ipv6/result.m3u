@@ -1,1 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/zht98/iptv-api/refs/heads/master/output/epg/epg.gz"
+#EXTINF:-1 tvg-name="咪咕赛事01" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕赛事01.png" group-title="📺央视频道",咪咕赛事01
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226923/1.m3u8
+#EXTINF:-1 tvg-name="咪咕赛事02" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕赛事02.png" group-title="📺央视频道",咪咕赛事02
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226776/1.m3u8
+#EXTINF:-1 tvg-name="咪咕赛事03" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕赛事03.png" group-title="📺央视频道",咪咕赛事03
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226909/1.m3u8
