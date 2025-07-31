@@ -3,13 +3,3 @@
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
 
-# CCTV1,http://39.135.133.157:80/TVOD/88888888/224/3221225816/main.m3u8
-# CCTV1,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-# CCTV1,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8
-# http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8
-
-CCTV1,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
-CCTV1,http://go.bkpcp.top/mg/cctv1
-CCTV1,http://t.061899.xyz/tl/tl.php?id=cctv1
-CCTV1,http://free.cnlive.club/channel/47cdbb52.m3u8
-CCTV1,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
