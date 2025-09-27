@@ -2,4 +2,4 @@
 央视CCTV- 1央视,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 央视CCTV1央视,http://112.99.193.34:9901/tsfile/live/1017_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 央视CCTV- 01央视,http://221.226.51.220:50081/newlive/live/hls/1/live.m3u8
-CCTV-1[1920*1080],http://lt.hxtre.com:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
+CCTV-01[1920*1080],http://lt.hxtre.com:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
