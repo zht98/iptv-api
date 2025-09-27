@@ -1,3 +1,4 @@
-Name: CCTV1, URL: http://1.180.2.93:9901/tsfile/live/1020_1.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-内蒙古-呼和浩特, ISP: 电信, Date: None, Delay: 3470 ms, Speed: 1.62 M/s, Resolution: 1920x1080
-Name: CCTV1, URL: http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-湖南-长沙, ISP: 联通, Date: None, Delay: 10039 ms, Speed: 0.17 M/s, Resolution: 1920x1080
+Name: CCTV1, URL: http://1.180.2.93:9901/tsfile/live/1020_1.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-内蒙古-呼和浩特, ISP: 电信, Date: None, Delay: 4400 ms, Speed: 1.41 M/s, Resolution: 1920x1080
+Name: CCTV1, URL: http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-湖南-长沙, ISP: 联通, Date: None, Delay: 9456 ms, Speed: 0.31 M/s, Resolution: 1920x1080
+Name: CCTV1, URL: http://221.226.51.220:50081/newlive/live/hls/1/live.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-江苏-南京, ISP: 电信, Date: None, Delay: 10590 ms, Speed: 0.03 M/s, Resolution: None
 Name: CCTV1, URL: http://lt.hxtre.com:35455/itv/1000000005000265001.m3u8?cdn=ystenlive, From: subscribe, IPv_Type: ipv4, Location: 中国-安徽-马鞍山, ISP: 联通, Date: None, Delay: 193 ms, Speed: 0.00 M/s, Resolution: None
