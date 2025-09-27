@@ -5,4 +5,4 @@
 # Format: Main name (corresponds to channel name in demo.txt template), alias1, alias2, alias3
 # Aliases support regex fuzzy matching, use * to match any characters, e.g.: CCTV-10, CCTV-10*
 
-CCTV1,*CCTV-1*
+CCTV1,CCTV-1,CCTV-1,CCTV-01
