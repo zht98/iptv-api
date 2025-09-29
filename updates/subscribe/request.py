@@ -78,7 +78,7 @@ async def get_channels_by_subscribe_urls(
             if response:
                 status = response.status_code
 
-                if status == 200:
+                if status in [200, 206]:
                     response.encoding = "utf-8"
                     content = response.text
 
