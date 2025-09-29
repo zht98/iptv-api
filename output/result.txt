@@ -1,14 +1,14 @@
 🕘️更新时间,#genre#
-2025-09-29 21:08:45,http://61.169.47.100:10081/hls/1/index.m3u8
+2025-09-29 21:12:38,http://120.76.248.139/live/bfgd/4200000484.m3u8
 
 📺央视频道,#genre#
-CCTV1,http://61.169.47.100:10081/hls/1/index.m3u8
-CCTV1,http://111.43.126.240:9003/hls/13/index.m3u8
 CCTV1,http://120.76.248.139/live/bfgd/4200000484.m3u8
+CCTV1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://112.99.193.34:9901/tsfile/live/1017_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+CCTV1,http://61.169.47.100:10081/hls/1/index.m3u8
+CCTV1,http://221.226.51.220:50081/newlive/live/hls/1/live.m3u8
+CCTV1,http://lt.hxtre.com:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
+CCTV1,http://111.43.126.240:9003/hls/13/index.m3u8
 CCTV1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225673/1.m3u8
 CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 CCTV1,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226635/1.m3u8
-CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226190/index.m3u8
-CCTV1,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226691/.m3u8
-CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227262/1.m3u8
-CCTV1,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
