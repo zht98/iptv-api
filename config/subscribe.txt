@@ -1,4 +1,5 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://raw.githubusercontent.com/zht98/iptv-api/refs/heads/master/config/test.txt
+# https://raw.githubusercontent.com/zht98/iptv-api/refs/heads/master/config/test.txt
+https://chuxinya.top/f/AD5QHE/%E6%B5%B7%E7%87%95.txt
