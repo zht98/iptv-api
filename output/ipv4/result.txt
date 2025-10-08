@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-08 17:13:45,http://tvtj.jxwltx.com:8003/cctv1.m3u8
+2025-10-08 18:23:59,http://tvtj.jxwltx.com:8003/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV1,http://tvtj.jxwltx.com:8003/cctv1.m3u8
