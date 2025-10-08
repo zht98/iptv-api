@@ -1,6 +1,7 @@
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor
 from time import time
+
 from requests import Session, exceptions
 from tqdm.asyncio import tqdm_asyncio
 
@@ -16,19 +17,20 @@ from utils.tools import (
 
 
 async def get_channels_by_subscribe_urls(
-    urls,
-    names=None,
-    multicast=False,
-    hotel=False,
-    retry=True,
-    error_print=True,
-    whitelist=None,
-    callback=None,
+        urls,
+        names=None,
+        multicast=False,
+        hotel=False,
+        retry=True,
+        error_print=True,
+        whitelist=None,
+        callback=None,
 ):
-    """Get the channels by subscribe urls"""
+    """
+    Get the channels by subscribe urls
+    """
     if whitelist:
         urls.sort(key=lambda url: whitelist.index(url) if url in whitelist else len(whitelist))
-
     subscribe_results = {}
     subscribe_urls_len = len(urls)
     pbar = tqdm_asyncio(
@@ -37,13 +39,11 @@ async def get_channels_by_subscribe_urls(
     )
     start_time = time()
     mode_name = "组播" if multicast else "酒店" if hotel else "订阅"
-
     if callback:
         callback(
             f"正在获取{mode_name}源, 共{subscribe_urls_len}个{mode_name}源",
             0,
         )
-
     hotel_name = constants.origin_map["hotel"]
 
     def process_subscribe_channels(subscribe_info: str | dict) -> defaultdict:
@@ -55,40 +55,59 @@ async def get_channels_by_subscribe_urls(
             subscribe_url = subscribe_info.get("url")
         else:
             subscribe_url = subscribe_info
-
         channels = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
         in_whitelist = whitelist and (subscribe_url in whitelist)
         session = Session()
-
         try:
             response = None
+            # 设置两种 UA
+            headers_browser = {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/117.0.0.0 Safari/537.36",
+                "Accept": "*/*"
+            }
+            headers_mobile = {
+                "User-Agent": "okhttp/3.15",
+                "Accept": "*/*"
+            }
             try:
                 response = (
                     retry_func(
-                        lambda: session.get(subscribe_url, timeout=config.request_timeout),
+                        lambda: session.get(
+                            subscribe_url,
+                            timeout=config.request_timeout,
+                            headers=headers_browser,
+                            allow_redirects=True
+                        ),
                         name=subscribe_url,
                     )
                     if retry
-                    else session.get(subscribe_url, timeout=config.request_timeout)
+                    else session.get(
+                        subscribe_url,
+                        timeout=config.request_timeout,
+                        headers=headers_browser,
+                        allow_redirects=True
+                    )
                 )
             except exceptions.Timeout:
                 print(f"Timeout on subscribe: {subscribe_url}")
+            except exceptions.RequestException as e:
+                print(f"Request error on subscribe: {subscribe_url} 错误: {e}")
 
             content = ""
             if response:
                 status = response.status_code
-
                 if status in [200, 206]:
                     response.encoding = "utf-8"
                     content = response.text
-
                 elif status == 403:
-                    print(f"403 Forbidden: {subscribe_url}，尝试使用浏览器请求头重试")
-                    headers = {
-                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/117.0.0.0 Safari/537.36"
-                    }
+                    print(f"403 Forbidden: {subscribe_url}，尝试使用移动端请求头重试")
                     try:
-                        response_retry = session.get(subscribe_url, headers=headers, timeout=config.request_timeout)
+                        response_retry = session.get(
+                            subscribe_url,
+                            headers=headers_mobile,
+                            timeout=config.request_timeout,
+                            allow_redirects=True
+                        )
                         if response_retry.status_code == 200:
                             response_retry.encoding = "utf-8"
                             content = response_retry.text
@@ -96,10 +115,8 @@ async def get_channels_by_subscribe_urls(
                             print(f"403重试失败: {subscribe_url} 状态码: {response_retry.status_code}")
                     except Exception as e:
                         print(f"403重试异常: {subscribe_url} 错误: {e}")
-
                 elif status == 404:
                     print(f"资源不存在（404）: {subscribe_url}")
-
                 else:
                     print(f"其他错误（{status}）: {subscribe_url}")
 
@@ -110,7 +127,6 @@ async def get_channels_by_subscribe_urls(
                     pattern=(constants.multiline_m3u_pattern if m3u_type else constants.multiline_txt_pattern),
                     open_headers=config.open_headers if m3u_type else False
                 )
-
                 for item in data:
                     name = item["name"]
                     url = item["url"]
@@ -141,22 +157,19 @@ async def get_channels_by_subscribe_urls(
                                 channels[name][region][url_type] = [value]
                             else:
                                 channels[name] = [value]
-
         except Exception as e:
             if error_print:
                 print(f"Error on {subscribe_url}: {e}")
         finally:
             session.close()
             pbar.update()
-
-        remain = subscribe_urls_len - pbar.n
-        if callback:
-            callback(
-                f"正在获取{mode_name}源, 剩余{remain}个{mode_name}源待获取, 预计剩余时间: {get_pbar_remaining(n=pbar.n, total=pbar.total, start_time=start_time)}",
-                int((pbar.n / subscribe_urls_len) * 100),
-            )
-
-        return channels
+            remain = subscribe_urls_len - pbar.n
+            if callback:
+                callback(
+                    f"正在获取{mode_name}源, 剩余{remain}个{mode_name}源待获取, 预计剩余时间: {get_pbar_remaining(n=pbar.n, total=pbar.total, start_time=start_time)}",
+                    int((pbar.n / subscribe_urls_len) * 100),
+                )
+            return channels
 
     with ThreadPoolExecutor(max_workers=10) as executor:
         futures = [
@@ -165,6 +178,5 @@ async def get_channels_by_subscribe_urls(
         ]
         for future in futures:
             subscribe_results = merge_objects(subscribe_results, future.result())
-
     pbar.close()
     return subscribe_results
