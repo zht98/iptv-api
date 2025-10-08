@@ -2,4 +2,3 @@
 # This is a list of subscription sources, with one subscription address per line
 
 https://raw.githubusercontent.com/zht98/iptv-api/refs/heads/master/config/test.txt
-http://dd.rihou.cc:555/gggg.nzk/
