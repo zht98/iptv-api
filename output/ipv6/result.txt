@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-08 18:23:59,http://rustdesk.szsun.xyz:8088/udp/239.77.1.17:5146
+2025-10-08 19:49:41,http://rustdesk.szsun.xyz:8088/udp/239.77.1.17:5146
 
 📺央视频道,#genre#
 CCTV1,http://rustdesk.szsun.xyz:8088/udp/239.77.1.17:5146
