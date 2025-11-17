@@ -1,5 +1,5 @@
 🌏️央视网,#genre#
 W_CCTV1,webview://https://yangshipin.cn/tv/home?pid=600001859$!
 🌏️卫视网,#genre#
-W_北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
-W_江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
+W_北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309$!
+W_江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521$!
