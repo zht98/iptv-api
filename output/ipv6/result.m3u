@@ -1,5 +1,9 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/zht98/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="W_CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/W_CCTV1.png" group-title="🕘️更新时间",2025-11-17 16:36:06
+#EXTINF:-1 tvg-name="W_CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/W_CCTV1.png" group-title="🕘️更新时间",2025-11-17 16:54:07
 webview://https://yangshipin.cn/tv/home?pid=600001859
 #EXTINF:-1 tvg-name="W_CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/W_CCTV1.png" group-title="🌏️央视网",W_CCTV1
 webview://https://yangshipin.cn/tv/home?pid=600001859
+#EXTINF:-1 tvg-name="W_北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/W_北京卫视.png" group-title="🌏️卫视网",W_北京卫视
+webview://https://yangshipin.cn/tv/home?pid=600002309
+#EXTINF:-1 tvg-name="W_江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/W_江苏卫视.png" group-title="🌏️卫视网",W_江苏卫视
+webview://https://yangshipin.cn/tv/home?pid=600002521
