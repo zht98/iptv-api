@@ -1,5 +1,7 @@
 🕘️更新时间,#genre#
-2025-11-17 11:42:14,webview://https://yangshipin.cn/tv/home?pid=600001859
+2025-11-17 16:36:06,webview://https://yangshipin.cn/tv/home?pid=600001859
 
 🌏️央视网,#genre#
 W_CCTV1,webview://https://yangshipin.cn/tv/home?pid=600001859
+
+🌏️卫视网,#genre#
