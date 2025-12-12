@@ -1,8 +1,6 @@
 import os
 import re
 
-from utils.i18n import t
-
 config_dir = "config"
 
 output_dir = "output"
@@ -47,10 +45,10 @@ nomatch_log_path = os.path.join(output_dir, "log/nomatch.log")
 
 log_path = os.path.join(output_dir, "log/log.log")
 
-url_host_pattern = re.compile(r"((https?|rtmp|rtsp)://)?([^:@/]+(:[^:@/]*)?@)?(\[[0-9a-fA-F:]+]|([\w-]+\.)+[\w-]+)")
+url_host_pattern = re.compile(r"((webview|https?|rtmp|rtsp)://)?([^:@/]+(:[^:@/]*)?@)?(\[[0-9a-fA-F:]+]|([\w-]+\.)+[\w-]+)")
 
 url_pattern = re.compile(
-    r"(?P<url>" + url_host_pattern.pattern + r"\S*)")
+    r"(?P<url>(?:webview://)?" + url_host_pattern.pattern + r"(?:\S*?(?=\?$|\?\$|$)|[^\s?]*))")
 
 rt_url_pattern = re.compile(r"^(rtmp|rtsp)://.*$")
 
@@ -112,12 +110,12 @@ region_list = [
 ]
 
 origin_map = {
-    "hotel": t("name.hotel"),
-    "multicast": t("name.multicast"),
-    "subscribe": t("name.subscribe"),
-    "online_search": t("name.online_search"),
-    "whitelist": t("name.whitelist"),
-    "local": t("name.local"),
+    "hotel": "酒店源",
+    "multicast": "组播源",
+    "subscribe": "订阅源",
+    "online_search": "关键字源",
+    "whitelist": "白名单",
+    "local": "本地源",
 }
 
 ipv6_proxy = "http://www.ipv6proxy.net/go.php?u="
@@ -126,4 +124,4 @@ foodie_url = "http://www.foodieguide.com/iptvsearch/"
 
 foodie_hotel_url = "http://www.foodieguide.com/iptvsearch/iptvhotel.php"
 
-waiting_tip = t("msg.waiting_tip")
+waiting_tip = "📄结果将在更新完成后生成，请耐心等待..."
