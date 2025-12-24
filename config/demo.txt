@@ -1,3 +1,8 @@
-📺央视频道,#genre#
+📺央视频道,#genre#,JS=https://gongdian.top/tv/ku9/webview.js
 W_CCTV1,webview://https://yangshipin.cn/tv/home?pid=600001859$!
 W_CCTV2,webview://https://yangshipin.cn/tv/home?pid=600001800$!
+CCTV4K,http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600002264$!
+CCTV8K,http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600156816$!
+CCTV1,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001859$!
+CCTV2,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001800$!
+CCTV3,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001801$!
