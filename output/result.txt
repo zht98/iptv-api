@@ -1,6 +1,11 @@
 🕘️更新时间,#genre#
-2025-12-17 10:25:39,webview://https://yangshipin.cn/tv/home?pid=600001859
+2025-12-24 21:18:28,webview://https://yangshipin.cn/tv/home?pid=600001859
 
 📺央视频道,#genre#
 W_CCTV1,webview://https://yangshipin.cn/tv/home?pid=600001859
 W_CCTV2,webview://https://yangshipin.cn/tv/home?pid=600001800
+CCTV4K,http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600002264
+CCTV8K,http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600156816
+CCTV1,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001859
+CCTV2,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001800
+CCTV3,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001801

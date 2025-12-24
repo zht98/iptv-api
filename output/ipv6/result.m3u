@@ -1,7 +1,17 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/zht98/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="W_CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/W_CCTV1.png" group-title="🕘️更新时间",2025-12-17 10:25:39
+#EXTINF:-1 tvg-name="W_CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/W_CCTV1.png" group-title="🕘️更新时间",2025-12-24 21:18:28
 webview://https://yangshipin.cn/tv/home?pid=600001859
 #EXTINF:-1 tvg-name="W_CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/W_CCTV1.png" group-title="📺央视频道",W_CCTV1
 webview://https://yangshipin.cn/tv/home?pid=600001859
 #EXTINF:-1 tvg-name="W_CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/W_CCTV2.png" group-title="📺央视频道",W_CCTV2
 webview://https://yangshipin.cn/tv/home?pid=600001800
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K.png" group-title="📺央视频道",CCTV4K
+http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600002264
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8K.png" group-title="📺央视频道",CCTV8K
+http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600156816
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV1
+http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001859
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV2
+http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001800
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="📺央视频道",CCTV3
+http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001801

@@ -1,2 +1,7 @@
 Name: W_CCTV1, URL: webview://https://yangshipin.cn/tv/home?pid=600001859, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: W_CCTV2, URL: webview://https://yangshipin.cn/tv/home?pid=600001800, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV4K, URL: http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600002264, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV8K, URL: http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600156816, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV1, URL: http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001859, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV2, URL: http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001800, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV3, URL: http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001801, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
