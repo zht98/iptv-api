@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/zht98/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="赛事咪咕01" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕01.png" group-title="🕘️更新时间",2026-01-01 10:13:07
+#EXTINF:-1 tvg-name="赛事咪咕01" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕01.png" group-title="🕘️更新时间",2026-01-01 10:17:07
 https://msj.188766.xyz/play?id=3000000001000005308&token=bd0a291bbd0a291bbd0a291bbd0a291b
 #EXTINF:-1 tvg-name="赛事咪咕01" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕01.png" group-title="📺央视频道",赛事咪咕01
 https://msj.188766.xyz/play?id=3000000001000005308&token=bd0a291bbd0a291bbd0a291bbd0a291b
