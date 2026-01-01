@@ -2,7 +2,6 @@
 # This is the EPG subscription list used to generate M3U result channel menu information
 
 https://epg.112114.xyz/pp.xml
-http://epg.dy2.fun:5678
 https://epg.zsdc.eu.org/t.xml
 http://epg.51zmt.top:8000/e.xml
 https://e.erw.cc/e.xml
