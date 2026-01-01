@@ -1,9 +1,4 @@
 🕘️更新时间,#genre#
-2026-01-01 09:51:14,http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858
+2026-01-01 10:13:07,url
 
 📺央视频道,#genre#
-CCTV-1,http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858
-CCTV-1,http://111.221.137.234:44330/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-2,http://tvlist.top/jd/index.php?id=cctv2&qt=183.224.122.114:8014
-CCTV-2,http://27.41.245.32:801/hls/2/index.m3u8
-CCTV-2,http://111.221.137.234:44330/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
