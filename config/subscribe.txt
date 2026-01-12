@@ -1,7 +1,6 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://bc.188766.xyz/?ip=&mima=bingcha1130
 
 
 
