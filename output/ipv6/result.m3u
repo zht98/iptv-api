@@ -1,3 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/zht98/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="咪咕体育1" tvg-logo="咪咕体育1.png" group-title="🕘️更新时间",2026-01-12 12:26:19
-url
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="睛彩竞技.png" group-title="🕘️更新时间",2026-01-12 14:42:04
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226118/index.m3u8
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="睛彩篮球.png" group-title="📺央视频道",睛彩篮球
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226118/index.m3u8
